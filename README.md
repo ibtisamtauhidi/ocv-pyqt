@@ -1,2 +1,1 @@
-# ocv-pyqt
-Image and real time video processing using OpenCV and PyQt on Python
+Uploading test videos and images
